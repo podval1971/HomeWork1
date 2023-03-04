@@ -1,0 +1,15 @@
+C:\Users\Papa\Downloads\Documents\HomeWorks\Homework1\obj\Debug\net6.0\Homework1.csproj.AssemblyReference.cache
+C:\Users\Papa\Downloads\Documents\HomeWorks\Homework1\obj\Debug\net6.0\Homework1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Papa\Downloads\Documents\HomeWorks\Homework1\obj\Debug\net6.0\Homework1.AssemblyInfoInputs.cache
+C:\Users\Papa\Downloads\Documents\HomeWorks\Homework1\obj\Debug\net6.0\Homework1.AssemblyInfo.cs
+C:\Users\Papa\Downloads\Documents\HomeWorks\Homework1\obj\Debug\net6.0\Homework1.csproj.CoreCompileInputs.cache
+C:\Users\Papa\Downloads\Documents\HomeWorks\Homework1\bin\Debug\net6.0\Homework1.exe
+C:\Users\Papa\Downloads\Documents\HomeWorks\Homework1\bin\Debug\net6.0\Homework1.deps.json
+C:\Users\Papa\Downloads\Documents\HomeWorks\Homework1\bin\Debug\net6.0\Homework1.runtimeconfig.json
+C:\Users\Papa\Downloads\Documents\HomeWorks\Homework1\bin\Debug\net6.0\Homework1.dll
+C:\Users\Papa\Downloads\Documents\HomeWorks\Homework1\bin\Debug\net6.0\Homework1.pdb
+C:\Users\Papa\Downloads\Documents\HomeWorks\Homework1\obj\Debug\net6.0\Homework1.dll
+C:\Users\Papa\Downloads\Documents\HomeWorks\Homework1\obj\Debug\net6.0\refint\Homework1.dll
+C:\Users\Papa\Downloads\Documents\HomeWorks\Homework1\obj\Debug\net6.0\Homework1.pdb
+C:\Users\Papa\Downloads\Documents\HomeWorks\Homework1\obj\Debug\net6.0\Homework1.genruntimeconfig.cache
+C:\Users\Papa\Downloads\Documents\HomeWorks\Homework1\obj\Debug\net6.0\ref\Homework1.dll
